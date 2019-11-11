@@ -1,4 +1,16 @@
-﻿<!DOCTYPE html>
+﻿
+<?php 
+    if(isset($_GET['usuario']){
+        
+        $usuario = $_GET["usuario"];
+        $senha = $_GET["senha"];
+    
+        echo "{\"sucesso\":\"true\", \"mensagem\":\"Login efetuado com sucesso\"}"; 
+        exit();
+    }
+    
+?>
+<!DOCTYPE html>
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
