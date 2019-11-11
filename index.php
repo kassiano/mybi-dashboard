@@ -5,14 +5,14 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
-    if(isset($_GET['usuario']){
+   // if(isset($_GET['usuario']){
         
 //        $usuario = $_GET["usuario"];
 //        $senha = $_GET["senha"];
 //    
 //        echo "{\"sucesso\":\"true\", \"mensagem\":\"Login efetuado com sucesso\"}"; 
 //        exit();
-    }
+   // }
     
 ?>
 <!DOCTYPE html>
