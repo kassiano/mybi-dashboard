@@ -1,21 +1,4 @@
-﻿
-<?php 
-
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
-
-   // if(isset($_GET['usuario']){
-        
-//        $usuario = $_GET["usuario"];
-//        $senha = $_GET["senha"];
-//    
-//        echo "{\"sucesso\":\"true\", \"mensagem\":\"Login efetuado com sucesso\"}"; 
-//        exit();
-   // }
-    
-?>
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
